@@ -27,3 +27,4 @@ All necessary, insightful information that we've got along the journey in the co
 - [Feature Importance](https://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html)
 - [How to Prepare Data For Machine Learning](https://machinelearningmastery.com/how-to-prepare-data-for-machine-learning/?utm_source=drip&utm_medium=email&utm_campaign=Machine+Learning+Mastery+Crash+Course&utm_content=Results+are+only+as+good+as+your+data)
 - [How to Use a Machine Learning Checklist to Get Accurate Predictions, Reliably](https://machinelearningmastery.com/machine-learning-checklist/?utm_source=drip&utm_medium=email&utm_campaign=Machine+Learning+Mastery+Crash+Course&utm_content=Machine+learning+has+a+trap)
+- [Dealing with Imbalanced Data in Machine Learning](https://www.kdnuggets.com/2020/10/imbalanced-data-machine-learning.html)
