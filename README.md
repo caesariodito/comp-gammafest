@@ -15,3 +15,7 @@ All necessary, insightful information that we've got along the journey in the co
 3. cek correlation | [Exploratory Data Analysis](exploratory_data_analysis.ipynb)
 4. lakukan normalisation | [Data Normalization](data_normalization.ipynb)
 5. lakukan split data sebanyak 3 (training validation testing) (HOLD-OUT) atau cross validation sebanyak 5, 7, 10 putaran
+
+### Other Notes
+
+- https://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html
