@@ -1,5 +1,9 @@
 # What we've done so far
 
+- [Day 1](/comp/day1/)
+- [Day 2](/comp/day2/)
+
+
 ## EDA
 
 ![eda](img/eda.png)
