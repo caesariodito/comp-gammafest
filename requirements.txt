@@ -50,3 +50,5 @@ tornado==6.3.1
 traitlets==5.9.0
 tzdata==2023.3
 wcwidth==0.2.6
+xgboost==1.7.5
+imbalanced-learn==0.10.1
